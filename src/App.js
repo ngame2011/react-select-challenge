@@ -70,7 +70,7 @@ export const Items = ({ items, selectedItems, onChange }) => {
             const values = checked ? [
                 ...selectedItems,
                 ...ids.filter(pullAll(selectedItems)),
-            ] : selectedItems.filter(pullAll(ids)); // pz here
+            ] : selectedItems.filter(pullAll(ids));
 
             onChange(values);
         } else {
