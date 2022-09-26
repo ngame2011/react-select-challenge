@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 60px;
+}
+.items {
+    padding-top: 24px;
+    font-size: 16px;
+}
+
+.DeleteButton {
+    font-size: 16px;
+    display: block;
+    background-color: #fb6363;
+    color: white;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+}
