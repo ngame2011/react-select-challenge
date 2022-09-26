@@ -31,7 +31,7 @@ export default function App() {
     };
 
     const onDeleteHandler = () => {
-        setItems(items.filter((item) => !selected.includes(item)));
+        setItems(items.filter(({ _id }) => !selected.includes(_id)));
     };
 
     return (
