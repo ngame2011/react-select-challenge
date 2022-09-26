@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-select-challenge/static/css/main.645d07ce.chunk.css",
+    "main.js": "/react-select-challenge/static/js/main.876aeb55.chunk.js",
+    "main.js.map": "/react-select-challenge/static/js/main.876aeb55.chunk.js.map",
+    "runtime-main.js": "/react-select-challenge/static/js/runtime-main.2d302f8f.js",
+    "runtime-main.js.map": "/react-select-challenge/static/js/runtime-main.2d302f8f.js.map",
+    "static/js/2.658d2063.chunk.js": "/react-select-challenge/static/js/2.658d2063.chunk.js",
+    "static/js/2.658d2063.chunk.js.map": "/react-select-challenge/static/js/2.658d2063.chunk.js.map",
+    "index.html": "/react-select-challenge/index.html",
+    "static/css/main.645d07ce.chunk.css.map": "/react-select-challenge/static/css/main.645d07ce.chunk.css.map",
+    "static/js/2.658d2063.chunk.js.LICENSE.txt": "/react-select-challenge/static/js/2.658d2063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d302f8f.js",
+    "static/js/2.658d2063.chunk.js",
+    "static/css/main.645d07ce.chunk.css",
+    "static/js/main.876aeb55.chunk.js"
+  ]
+}
