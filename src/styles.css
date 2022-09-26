@@ -12,6 +12,12 @@
     padding-top: 24px;
     font-size: 16px;
 }
+.items ul {
+    list-style: none;
+}
+.items label {
+    user-select: none;
+}
 
 .DeleteButton {
     font-size: 16px;
