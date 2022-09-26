@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-select-challenge/static/css/main.95779e78.chunk.css",
-    "main.js": "/react-select-challenge/static/js/main.876aeb55.chunk.js",
-    "main.js.map": "/react-select-challenge/static/js/main.876aeb55.chunk.js.map",
+    "main.js": "/react-select-challenge/static/js/main.c262162c.chunk.js",
+    "main.js.map": "/react-select-challenge/static/js/main.c262162c.chunk.js.map",
     "runtime-main.js": "/react-select-challenge/static/js/runtime-main.2d302f8f.js",
     "runtime-main.js.map": "/react-select-challenge/static/js/runtime-main.2d302f8f.js.map",
     "static/js/2.658d2063.chunk.js": "/react-select-challenge/static/js/2.658d2063.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2d302f8f.js",
     "static/js/2.658d2063.chunk.js",
     "static/css/main.95779e78.chunk.css",
-    "static/js/main.876aeb55.chunk.js"
+    "static/js/main.c262162c.chunk.js"
   ]
 }
